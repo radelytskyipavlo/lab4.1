@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\edc\АП\4\4.1\lab4.1\lab4.1\Source.cpp(6,6): warning C4101: 'k': unreferenced local variable
+D:\edc\АП\4\4.1\lab4.1\lab4.1\Source.cpp(6,9): warning C4101: 'N': unreferenced local variable
+  lab4.1.vcxproj -> D:\edc\АП\4\4.1\lab4.1\Debug\lab4.1.exe
